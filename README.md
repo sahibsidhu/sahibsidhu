@@ -8,7 +8,7 @@
   
 [![Sahib Sidhu profile views](https://u8views.com/api/v1/github/profiles/161289714/views/day-week-month-total-count.svg)](https://u8views.com/github/sahibsidhu)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+welcome+to+my+GitHub+profile;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+My+name+is+Sahib+Sahib;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 <!---
 sahibsidhu/sahibsidhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
